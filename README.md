@@ -12,3 +12,4 @@ TWELVE_DATA_API_KEY = "your-key-here"
 
 This software is for research and paper testing only. It does not guarantee accuracy or profit.
 
+The repository intentionally has no `packages.txt`: Version 8.3 requires no operating-system packages.
